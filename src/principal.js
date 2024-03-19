@@ -49,5 +49,4 @@ class Principal extends React.Component{
         );
     }
 }
-
 export default Principal;

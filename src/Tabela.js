@@ -10,6 +10,7 @@ class Tabela extends React.Component{
                     <tr>
                         <th>Nome</th>
                         <th>Idade</th>
+                       
                     </tr>
                 </thead>
 
